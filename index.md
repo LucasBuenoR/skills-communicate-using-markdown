@@ -21,3 +21,7 @@ return 0;
 
 }
 ```
+
+- [x] Estudar C/C++
+- [ ] Estudar Python
+- [ ] Finalizar projeto
